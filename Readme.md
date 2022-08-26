@@ -19,8 +19,8 @@
 
 #### It took around 2 hr to build
 
-- [live Link](https://crypto-5.netlify.app/)
+- # [live Link](https://crypto-5.netlify.app/)
 
-#
+
 
 ![Screenshots](/assets/thumbnail.png)
